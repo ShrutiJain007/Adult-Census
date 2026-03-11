@@ -10,7 +10,7 @@ The project includes **exploratory data analysis, machine learning modeling, clu
 
 Try the deployed application here:
 
-https://your-streamlit-link.streamlit.app
+https://adult-census-9rjncv6guo9cxerhddamrq.streamlit.app/
 
 ---
 
