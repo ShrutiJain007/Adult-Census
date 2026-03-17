@@ -5,15 +5,6 @@ This project predicts whether an individual earns **more than $50K per year** us
 The project includes **exploratory data analysis, machine learning modeling, clustering analysis, PCA visualization, and a deployed Streamlit application for interactive predictions.**
 
 ---
-
-## Live Demo
-
-Try the deployed application here:
-
-https://adult-census-9rjncv6guo9cxerhddamrq.streamlit.app/
-
----
-
 ## Project Overview
 
 The goal of this project is to analyze factors affecting income levels and build a machine learning model that predicts whether a person's income exceeds $50K annually.
